@@ -2,6 +2,15 @@ Nimg
 ====
 
 
+NImg 是基于ZImg的nodejs实现。
+
+NImg是基于node.js开发的高性能图片服务器，提供图片上传，实时裁剪。图片处理等接口调用。
+
+
+http://www.oschina.net/p/nimg
+
+
+
 NImg 是基于[ZImg](https://github.com/buaazp/zimg)的nodejs实现。
 
 去掉了ZImg中 memcached的缓存功能，图片上传处理接口使用json数据格式。不兼容ZImg的文件存储。
